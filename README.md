@@ -1,6 +1,8 @@
 ## Readme - Users List App
 **List Users Preview**
 
+![Ejemplo de salida en consola](lisuser.png)  
+
 📌**Descripción**
 Aplicación de consola en Java para gestionar una lista de usuarios (agregar, listar y salir).
 Tecnologías usadas:
